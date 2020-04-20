@@ -1,0 +1,10 @@
+C:\Users\nicol\source\repos\AdmCli\AdmCli\bin\Debug\AdmCli.exe.config
+C:\Users\nicol\source\repos\AdmCli\AdmCli\bin\Debug\AdmCli.exe
+C:\Users\nicol\source\repos\AdmCli\AdmCli\bin\Debug\AdmCli.pdb
+C:\Users\nicol\source\repos\AdmCli\AdmCli\obj\Debug\AdmCli.csprojAssemblyReference.cache
+C:\Users\nicol\source\repos\AdmCli\AdmCli\obj\Debug\AdmCli.FormAdmCli.resources
+C:\Users\nicol\source\repos\AdmCli\AdmCli\obj\Debug\AdmCli.Properties.Resources.resources
+C:\Users\nicol\source\repos\AdmCli\AdmCli\obj\Debug\AdmCli.csproj.GenerateResource.cache
+C:\Users\nicol\source\repos\AdmCli\AdmCli\obj\Debug\AdmCli.csproj.CoreCompileInputs.cache
+C:\Users\nicol\source\repos\AdmCli\AdmCli\obj\Debug\AdmCli.exe
+C:\Users\nicol\source\repos\AdmCli\AdmCli\obj\Debug\AdmCli.pdb
